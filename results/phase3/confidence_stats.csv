@@ -1,0 +1,8 @@
+Class,N,Mean conf,Mean conf (correct),Mean conf (wrong)
+Actinic keratoses,66,0.6024,0.4349,0.6222
+Basal cell carcinoma,103,0.5989,0.5427,0.622
+Benign keratosis,220,0.7731,0.79,0.7326
+Dermatofibroma,23,0.6123,0.3143,0.6259
+Melanoma,223,0.7584,0.6205,0.7735
+Melanocytic nevi,1341,0.9186,0.9373,0.6656
+Vascular lesions,29,0.8272,0.9058,0.6986

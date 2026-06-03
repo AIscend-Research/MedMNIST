@@ -1,0 +1,3 @@
+Model,Params,Size (MB),Inference (ms/img)
+Baseline ResNet-18,"11,180,103",44.8,2.71
+Lightweight ResNet-18 (0.5x),"2,800,679",11.3,2.67
