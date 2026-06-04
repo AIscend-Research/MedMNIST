@@ -1,0 +1,5 @@
+Model,Corruption,macro_auc,accuracy,macro_f1,Dermato F1,Melanoma F1,Nevi F1
+Baseline,Clean,0.9148,0.7392,0.4191,0.08,0.1753,0.8728
+Baseline,gaussian,0.9018,0.7212,0.3959,0.2759,0.1,0.8671
+Baseline,brightness_dark,0.5553,0.3022,0.0874,0.0,0.0,0.4598
+Baseline,brightness_bright,0.8584,0.7107,0.3165,0.1429,0.2373,0.8363

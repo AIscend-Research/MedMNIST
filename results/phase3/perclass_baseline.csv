@@ -1,0 +1,8 @@
+Class,N,AUC,Accuracy,Precision,Recall,F1
+Actinic keratoses,66,0.9333,0.1061,0.7,0.1061,0.1842
+Basal cell carcinoma,103,0.9406,0.2913,0.6,0.2913,0.3922
+Benign keratosis,220,0.8885,0.7045,0.4167,0.7045,0.5236
+Dermatofibroma,23,0.9031,0.0435,0.5,0.0435,0.08
+Melanoma,223,0.8521,0.0987,0.7857,0.0987,0.1753
+Melanocytic nevi,1341,0.9035,0.9314,0.8212,0.9314,0.8728
+Vascular lesions,29,0.9823,0.6207,0.8182,0.6207,0.7059
